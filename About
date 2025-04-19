@@ -13,3 +13,5 @@ Key Steps:
 [3] Evaluation: The accuracy of the model was evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
 
 [4] Visualization: Graphs were utilized to compare actual vs predicted ratings and model performance on train/test sets.
+
+The model was good, getting an R² value of about 0.79 on the training data and 0.64 on the test data with a minimal Mean Squared Error in either scenario.
